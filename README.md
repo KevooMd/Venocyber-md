@@ -12,7 +12,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
-  <a href="https://github.com/Kingjux/Venocyber-md">
+  <a href="https://github.com/KevooMd/Venocyber-md">
     <img alt="kevoo docs" height="300" src="https://telegra.ph/file/065cd88e507b6cd6b152b.jpg">
   </a>
 </p>
@@ -22,21 +22,21 @@
    
    
 <p align="center">
-  <a href="https://wa.me/+255689606561?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+Venocyber-md+Repo" target="_blank">
+  <a href="https://wa.me/255766535597?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+Kevoo-md+Repo" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  
-  <a aria-label="Venocyber-md is free to use" href="https://github.com/Kingjux/Venocyber-md" target="_blank">
-    <img alt="Venocybertech" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
+  <a aria-label="Kevoo-Md is free to use" href="https://github.com/KevooMd/Venocyber-md" target="_blank">
+    <img alt="[Kevootech] src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
   </a>
 
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{kingjux}/count.svg" alt="Venocyber-md :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{kingjux}/count.svg" alt="Kevoo-Md :: Visitor's Count" /></p>
 ---
 
 
 
 
-<p align="center"> 𝗩𝗲𝗻𝗼𝗰𝘆𝗯𝗲𝗿-𝗺𝗱 uses
+<p align="center"> Kevoo-Md uses
   <a href="https://github.com/adiwajshing/Baileys">Multi-Device Baileys.</a>
 </p>
 <p align="center">
@@ -46,11 +46,11 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/Kingjux/Venocyber-md"><b>Venocyber-md</b></a> Support Deploy On...
+  <a href="https://github.com/KevooMd/Venocyber-md"><b>Kevoo-Md</b></a> Support Deploy On...
 </p>
 
 <p align="center">
-  <a href="https://github.com/kingjux/venocyber-Md/blob/main/temp/deploy-on-vps.md"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750"></a>
+  <a href="https://github.com/KevooMd/Venocyber-md/blob/main/temp/deploy-on-vps.md"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750"></a>
   <a href="https://railway.app/template/GZOvIe?referralCode=wVDLrh"><img src="https://img.shields.io/badge/railway-3e164f?style=for-the-badge&logo=railway&logoColor=0B0D0E"></a>
 </p>
 <p align="center">
@@ -60,7 +60,7 @@
 </p>
   <a href="https://youtu.be/3NdJb6_1cJM"><img src="https://img.shields.io/badge/CodeSpace-green?colorA=%23ff000&colorB=%23017e40&style=for-the-badge&logo=git&logoColor=white"></a>
 </p>
-<p align="center">Need help? please create an <a href="https://github.com/Kingjux/Venocyber-md/issues">issue</a></p>
+<p align="center">Need help? please create an <a href="https://github.com/KevooMd/Venocyber-md/issues">issue</a></p>
 
  
 
@@ -87,9 +87,9 @@
 
 
 
-<h3>Venocyber-MD Stats</h3>
+<h3>Kevoo-Md Stats</h3>
 
-![Venocyber-md Stats](https://github-readme-stats.vercel.app/api/pin/?username=kingjux&repo=venocyber-md&show_owner=true&theme=dark)
+![Kevoo-Md Stats](https://github-readme-stats.vercel.app/api/pin/?username=kingjux&repo=venocyber-md&show_owner=true&theme=dark)
 
 
     
@@ -178,16 +178,16 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
    
 * ☆ ᴇxᴛʀᴀ ᴛᴇᴄʜ ʏᴏᴜ ᴄᴀɴ ᴜsᴇ ᴀɴᴅ ᴇɴᴊᴏʏ ☆ ᴠɪsɪᴛ ʜᴇʀᴇ ⇓
 <p align="left">
-<a href="https://youtu.be/FshoHx1Vk7U?si=bykHPB3juze4hIrg"><img align="center" src="https://telegra.ph/file/991e14c61b17a26c99da4.jpg" alt="DEPLOY" height="110" width="200" /></a>
+<a href="https://youtu.be/FshoHx1Vk7U?si=bykHPB3juze4hIrg"><img align="center" src="https://telegra.ph/file/065cd88e507b6cd6b152b.jpg" alt="DEPLOY" height="110" width="200" /></a>
    
-[![Venocyber tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=thank+you%F0%9F%91%8B!;for+using+venocyber+md;🙏;🙏+✍🏾;🥰)](https://github.com/Kingjux)
+[![Venocyber tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=thank+you%F0%9F%91%8B!;for+using+Kevoo+md;🙏;🙏+✍🏾;🥰)](https://github.com/KevooMd/Venocyber-md)
 
 <h1>💗</h1> 
 <b>Thanks For</b> -
 
- [venocyber 💖](https://wa.me/message/MSSH2UWWOQBDL1) for Voice ,[cecilia](https://youtu.be/1wNVPsZ98Mo?si=jZSXgdBRyA00kjKl) , [he.is.me](http://github.com/Venocybertech) , [Itxxwasi](https://wa.me/message/THZ3I25BYZM2E1) , [𝘎𝘪𝘧𝘵𝘦𝘥 𝘵𝘦𝘤𝘩](https://wa.me/message/NHCZC5DSOEUXB1) and [officialchuimsela](https://wa.me/+260769355624) thanks for helps 💖
+ [Kevoo 💖](https://wa.me/255766535597) for Voice ,[cecilia](https://youtu.be/1wNVPsZ98Mo?si=jZSXgdBRyA00kjKl) , [he.is.me](https://github.com/KevooMd/Venocyber-md) , [Itxxwasi](https://wa.me/255766535597) , [𝘎𝘪𝘧𝘵𝘦𝘥 𝘵𝘦𝘤𝘩](https://wa.me/255766535597) and [officialchuimsela](https://wa.me/255766535597) thanks for helps 💖
 
- ## [ WHATSAPP GROUPS ](https://chat.whatsapp.com/HSln3blDuuuKvC8njxyCCN)
+ ## [ WHATSAPP GROUPS ](https://chat.whatsapp.com/LUWrjMciEbh8MUyJURxQmL)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -203,11 +203,11 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-[![Venocyber tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Have+a%F0%9F%91%8B!;goodluck+on+your+deployment;programmed;by+venocyber;Admin🥰)](https://github.com/Kingjux)
+[![Kevoo tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Have+a%F0%9F%91%8B!;goodluck+on+your+deployment;programmed;by+Kevoo;Admin🥰)](https://github.com/KevooMd/Venocyber-md)
 
 <p align="center">
-  <a href="https://github.com/Kingjux/Venocyber-md">
-    <img alt="venocyber docs" height="300" src="https://telegra.ph/file/8197615d8b2f4b16899ad.jpg">
+  <a href="https://github.com/KevooMd/Venocyber-md">
+    <img alt="Kevoo docs" height="300" src="https://telegra.ph/file/065cd88e507b6cd6b152b.jpg">
   </a>
 </p>
     
@@ -217,4 +217,4 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ### UPDATE
-SUPPORT NUMBERS ARE CHANGED DUE TO UNEXPECTED ISSUES HERE ARE THE NEW [NUMBERS](https://wa.me/255689606561?text=hi%20bro%20i%20saved%20your%20number%20save%20mine%20too%20i'm) 
+SUPPORT NUMBERS ARE CHANGED DUE TO UNEXPECTED ISSUES HERE ARE THE NEW [NUMBERS](https://wa.me/255766535597?text=hi%20bro%20i%20saved%20your%20number%20save%20mine%20too%20i'm) 

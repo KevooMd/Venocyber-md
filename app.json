@@ -1,15 +1,15 @@
 {
-  "name": "venocyber-md",
+  "name": "Kevoo-Md",
   "description": "Simple WhatsApp Bot",
-  "logo": "https://github.com/kingjux/Venocyber-md/blob/main/lib/assets/logo.png?raw=true",
-  "keywords": ["VENOCYBER-MD", "VENOCYBER", "VENOCYBER MD BOT","VENOCYBER MD","venocyber","venocybertech"],
+  "logo": "https://github.com/KevooMd/Venocyber-md/blob/main/lib/assets/logo.png?raw=true",
+  "keywords": ["KEVOO-MD", "KEVOO", "Kevoo-Md","KEVOO","Kevoo","kevootech"],
   "success_url": "/",
   "stack": "container",
 
   "env": {
     "OWNER_NAME": {
       "description": "Name for Bot Owner",
-      "value": "𝐕𝐄𝐍𝐎𝐂𝐘𝐁𝐄𝐑-𝐓𝐄𝐂𝐇",
+      "value": "Kévøø",
       "required": true
     },
 
@@ -27,7 +27,7 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required": false,
-      "value": "𝐕𝐄𝐍𝐎𝐂𝐘𝐁𝐄𝐑 𝐌𝐃 𝐰𝐚𝐛𝐨𝐭𝐬"
+      "value": "Kevoo-Md"
     },
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
@@ -90,7 +90,7 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "255625774543"
+      "value": "255766535597"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
@@ -98,11 +98,11 @@
     },
     "MODE": {
       "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
-      "value": "private"
+      "value": "public"
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "VENOCYBER",
+      "value": "Kevoo",
       "required": false
     },
     "PACK_AUTHER": {
